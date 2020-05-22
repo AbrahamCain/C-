@@ -16,7 +16,7 @@ int main(){
 	}
   
 	else{
-    cout << "\nNot what I was looking for...\n";		//else tell them that they didn't answer correctly
-	  return 0;
+    	cout << "\nNot what I was looking for...\n";		//else tell them that they didn't answer correctly
+	return 0;
   }
 }
